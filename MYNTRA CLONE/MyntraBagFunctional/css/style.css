@@ -7,7 +7,6 @@
 
 header {
     position: relative;
-
     display: flex;
     height: 80px;
     align-items: center;
@@ -259,7 +258,8 @@ footer {
 }
 
 .add-bag-btn {
-    background-color: #ff3e6c;;
+    background-color: #ff3e6c;
+    ;
     padding: 6px 10px;
     width: 100%;
     border: none;
@@ -269,7 +269,7 @@ footer {
     cursor: pointer;
 }
 
-.bag-item-count{
+.bag-item-count {
     white-space: nowrap;
     text-align: center;
     line-height: 18px;

@@ -7,7 +7,6 @@
 
 header {
     position: relative;
-
     display: flex;
     height: 80px;
     align-items: center;
@@ -181,7 +180,7 @@ footer {
     color: #94969f;
 }
 
-.bag-item-count{
+.bag-item-count {
     white-space: nowrap;
     text-align: center;
     line-height: 18px;
